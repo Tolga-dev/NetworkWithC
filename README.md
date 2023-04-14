@@ -42,6 +42,7 @@ Chatting
 run server
 
 g++ -c Server/src/ServerHandle.cpp -o  source.o
+  
 
 g++ Server/src/ServerHandle.cpp  Server.cpp -o m -pthread
 
