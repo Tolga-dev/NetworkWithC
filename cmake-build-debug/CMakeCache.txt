@@ -216,6 +216,33 @@ FileDescriptor_IS_TOP_LEVEL:STATIC=OFF
 FileDescriptor_SOURCE_DIR:STATIC=/home/xamblot/CLionProjects/xServer/out/FileDescriptor
 
 //Value Computed by CMake
+Server_BINARY_DIR:STATIC=/home/xamblot/CLionProjects/xServer/cmake-build-debug/Server
+
+//Value Computed by CMake
+Server_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Server_SOURCE_DIR:STATIC=/home/xamblot/CLionProjects/xServer/Server
+
+//Value Computed by CMake
+lib_BINARY_DIR:STATIC=/home/xamblot/CLionProjects/xServer/cmake-build-debug/Server
+
+//Value Computed by CMake
+lib_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+lib_SOURCE_DIR:STATIC=/home/xamblot/CLionProjects/xServer/Server
+
+//Value Computed by CMake
+lib_server_BINARY_DIR:STATIC=/home/xamblot/CLionProjects/xServer/cmake-build-debug/Server
+
+//Value Computed by CMake
+lib_server_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+lib_server_SOURCE_DIR:STATIC=/home/xamblot/CLionProjects/xServer/Server
+
+//Value Computed by CMake
 recv_BINARY_DIR:STATIC=/home/xamblot/CLionProjects/xServer/cmake-build-debug/out/SystemCallsAndBusts
 
 //Value Computed by CMake
@@ -223,6 +250,24 @@ recv_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 recv_SOURCE_DIR:STATIC=/home/xamblot/CLionProjects/xServer/out/SystemCallsAndBusts
+
+//Value Computed by CMake
+sub_lib2_sources_BINARY_DIR:STATIC=/home/xamblot/CLionProjects/xServer/cmake-build-debug/Server
+
+//Value Computed by CMake
+sub_lib2_sources_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+sub_lib2_sources_SOURCE_DIR:STATIC=/home/xamblot/CLionProjects/xServer/Server
+
+//Value Computed by CMake
+sub_project_management_BINARY_DIR:STATIC=/home/xamblot/CLionProjects/xServer/cmake-build-debug
+
+//Value Computed by CMake
+sub_project_management_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+sub_project_management_SOURCE_DIR:STATIC=/home/xamblot/CLionProjects/xServer
 
 //Value Computed by CMake
 xServer_BINARY_DIR:STATIC=/home/xamblot/CLionProjects/xServer/cmake-build-debug
@@ -334,7 +379,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
