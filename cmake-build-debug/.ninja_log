@@ -1,0 +1,22 @@
+# ninja log v5
+1984	2082	1680206479287477613	out/GetAddrInfoPrepareToLaunch/recv	e0229bc1f92c008a
+0	35	1680208242621306886	out/SystemCallsAndBusts/CMakeFiles/recv.dir/Socket.c.o	e2065b571e5b5936
+0	394	1678993350999701695	out/recv/CMakeFiles/recv.dir/Recv.cpp.o	3728f37024b0fe1
+76	122	1681153671879029209	xServer	cf13a8ceeab66bb0
+0	746	1680731958160044429	CMakeFiles/xServer.dir/poll.cpp.o	19ed43dbe219fe10
+0	67	1680465467911782274	out/SystemCallsAndBusts/CMakeFiles/recv.dir/Connect.cpp.o	3b38e3ed610d8c4a
+1	41	1681155910077990024	build.ninja	8c891d6f45c8658d
+1	1983	1680206479187475947	out/GetAddrInfoPrepareToLaunch/CMakeFiles/recv.dir/ip.cpp.o	5bf50d2acb7d3aa4
+394	474	1678993351075702653	out/recv/recv	41198d42d3795d02
+53	97	1680467693147367268	out/SystemCallsAndBusts/recv	9194557322d0844a
+1	35	1680204043503588245	out/GetAddrInfoPrepareToLaunch/CMakeFiles/recv.dir/IP.c.o	5bb56904ee000827
+0	698	1678991261881553950	out/FileDescriptor/CMakeFiles/FileDescriptor.dir/fileDescriptor.cpp.o	c514ebe6f35fc5eb
+0	53	1680467693099366814	out/SystemCallsAndBusts/CMakeFiles/recv.dir/Accept.cpp.o	11de8a1f431715e4
+1834	1932	1679425191235690205	out/PartDeuxManipulateIP/recv	bbd283ccbd8e31d4
+698	836	1678991262017555616	out/FileDescriptor/FileDescriptor	e169019460d568b7
+1	1834	1679425191135687997	out/PartDeuxManipulateIP/CMakeFiles/recv.dir/ip.cpp.o	c619ba9e38f43e06
+0	75	1681153671835027999	CMakeFiles/xServer.dir/select.cpp.o	9c904ae24d525a47
+0	58	1680465257955517262	out/SystemCallsAndBusts/CMakeFiles/recv.dir/Bind.cpp.o	43a4e9c76c836b36
+0	457	1680637822991844648	CMakeFiles/xServer.dir/Server.cpp.o	fa55120d2f30d44d
+0	57	1680465607423106096	out/SystemCallsAndBusts/CMakeFiles/recv.dir/Listen.cpp.o	83630aaa897f5696
+1	612	1678911330235925960	CMakeFiles/xServer.dir/main.cpp.o	2eca17408db097c8
