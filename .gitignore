@@ -1,0 +1,5 @@
+main
+cmake-build-debug
+*.so
+*.o
+*.out

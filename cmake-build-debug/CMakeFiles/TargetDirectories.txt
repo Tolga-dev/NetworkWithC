@@ -1,0 +1,6 @@
+/home/xamblot/CLionProjects/xServer/cmake-build-debug/CMakeFiles/xServer.dir
+/home/xamblot/CLionProjects/xServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xamblot/CLionProjects/xServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xamblot/CLionProjects/xServer/cmake-build-debug/Server/CMakeFiles/sub_lib2_sources.dir
+/home/xamblot/CLionProjects/xServer/cmake-build-debug/Server/CMakeFiles/edit_cache.dir
+/home/xamblot/CLionProjects/xServer/cmake-build-debug/Server/CMakeFiles/rebuild_cache.dir
